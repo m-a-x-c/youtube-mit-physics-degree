@@ -2,7 +2,7 @@
 <h2 align="center">Path to a free mostly-complete YouTube-based university education in Theoretical Physics from the Massachusetts Institute of Technology.</h2>
 
 # Introduction
-This course guide is intended to be used for part-time study and will take 4 years to complete (2 subjects per half year). The content covered include the necessary mathematics, introductory physics, thermodynamics, quantum mechanics, relativity, and particle physics. The lectures were recorded between 2005 and 2020.
+This course guide is intended to be used for part-time study and will take 4 years to complete (2 subjects per half year). The content covered includes, necessary mathematics, introductory physics, thermodynamics, quantum mechanics, relativity, and particle physics. The lectures were recorded between 2005 and 2020.
 
 
 
