@@ -1,10 +1,8 @@
-!!!! UNDER CONSTRUCTION !!!!
-
 <h1 align="center">YouTube MIT Physics Degree</h1>
 <h2 align="center">Path to a free mostly-complete YouTube-based university education in Theoretical Physics from the Massachusetts Institute of Technology.</h2>
 
 # Introduction
-This course is intended to be taken part-time and will take 4 years to complete (2 subjects per half year). The content covered include the necessary mathematics, introductory physics, thermodynamics, quantum mechanics, relativity, and particle physics.
+This course is intended to be taken part-time and will take 4 years to complete (2 subjects per half year). The content covered include the necessary mathematics, introductory physics, thermodynamics, quantum mechanics, relativity, and particle physics. The lectures were recorded between 2005 and 2020.
 
 
 
@@ -32,7 +30,7 @@ This course is intended to be taken part-time and will take 4 years to complete 
 		<td align="center"><a href="https://www.youtube.com/watch?v=iQPWUfIHcoI&list=PLYmwFR_XLSpY6TULmWjytX1F6MqODCviv">8.01SC Classical Mechanics</a></td>
 		<td align="center"><a href="https://www.youtube.com/watch?v=rtlJoXxlSFE&list=PLyQSN7X0ro2314mKyUiOILaOC2hk6Pc3j">8.02 Physics II: Electricity and Magnetism</a></td>
     <td align="center"><a href="https://www.youtube.com/watch?v=4ysFC9vd3GE&list=PLUl4u3cNGP61R5sPDPKVfcFlu95wSs2Kx&index=2">8.03 Vibration and Waves</a></td>
-    <td align="center"><a href="https://www.youtube.com/watch?v=jANZxzetPaQ&list=PLUl4u3cNGP60cspQn3N9dYRPiyVWDd80G">8.04 Quantum Physics I</a> <a href="https://www.youtube.com/watch?v=lZ3bPUKo5zc&list=PLUl4u3cNGP61-9PEhRognw5vryrSEVLPr">Alternative</a></td>
+    <td align="center"><a href="https://www.youtube.com/watch?v=jANZxzetPaQ&list=PLUl4u3cNGP60cspQn3N9dYRPiyVWDd80G">8.04 Quantum Physics I</a> <u><a href="https://www.youtube.com/watch?v=lZ3bPUKo5zc&list=PLUl4u3cNGP61-9PEhRognw5vryrSEVLPr">Alternative</a></u></td>
     <td align="center"><a href="https://www.youtube.com/watch?v=QI13S04w8dM&list=PLUl4u3cNGP60QlYNsy52fctVBOlk-4lYx">8.05 Quantum Physics II</a></td>
     <td align="center"><a href="https://www.youtube.com/watch?v=L3LMbpZIKhQ&list=PLB7540DEDD482705B">8.06 Quantum Physics III</a></td>
 	</tr>
