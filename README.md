@@ -32,7 +32,7 @@ This course guide is intended to be used for part-time study and will take 4 yea
     <td align="center"><a href="https://www.youtube.com/watch?v=4ysFC9vd3GE&list=PLUl4u3cNGP61R5sPDPKVfcFlu95wSs2Kx&index=2">8.03 Vibration and Waves</a></td>
     <td align="center"><a href="https://www.youtube.com/watch?v=jANZxzetPaQ&list=PLUl4u3cNGP60cspQn3N9dYRPiyVWDd80G">8.04 Quantum Physics I</a> <a href="https://www.youtube.com/watch?v=lZ3bPUKo5zc&list=PLUl4u3cNGP61-9PEhRognw5vryrSEVLPr"><u>(alternative)</u></a></td>
     <td align="center"><a href="https://www.youtube.com/watch?v=QI13S04w8dM&list=PLUl4u3cNGP60QlYNsy52fctVBOlk-4lYx">8.05 Quantum Physics II</a></td>
-    <td align="center"><a href="https://www.youtube.com/watch?v=L3LMbpZIKhQ&list=PLB7540DEDD482705B">8.06 Quantum Physics III</a></td>
+    <td align="center"><a href="https://www.youtube.com/watch?v=_OZXEb8FxZQ&list=PLUl4u3cNGP60Zcz8LnCDFI8RPqRhJbb4L">8.06 Quantum Physics III</a></td>
 	</tr>
   	<tr>
 		<td align="center"><a href="https://www.youtube.com/watch?v=7UJ4CFRGd-U&list=PLE7DDD91010BC51F8">18.06 Linear Algebra</a></td>
