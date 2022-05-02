@@ -48,4 +48,4 @@ This course guide is intended to be used for part-time study and will take 4 yea
 
 # Other Interesting Subjects
 
-* <a href="https://www.youtube.com/watch?v=EUnGZoBa3nc&list=PLUl4u3cNGP633VWvZh23bP6dG80gW34SU">8.821 String Theory and Holographic Duality</a>
+* <a href="https://www.youtube.com/watch?v=EUnGZoBa3nc&list=PLUl4u3cNGP633VWvZh23bP6dG80gW34SU">8.821 String Theory and Holographic Duality (Prerequisites: Relativistic Quantum Field Theory I and II)</a>
